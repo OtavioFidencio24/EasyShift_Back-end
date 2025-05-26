@@ -12,6 +12,7 @@ I decided to create a web-based system to help solve her problem in a more effic
 not only aims to provide a free and practical solution for her daily operations, but also serves as a valuable 
 opportunity for me to gain hands-on experience in developing and delivering real-world software solutions.
 
+
 ## 🚀 Technologies Used
 
 - Java 17+
@@ -66,6 +67,11 @@ src/
 - `POST /roster` – Create a new weekly roster
 
 > JSON examples and detailed documentation will be added as development continues.
+
+## 📚 Documentation
+
+- [Documentação da API (PT-BR)](./DOCUMENTATION_PT.md)
+- [API Documentation (EN)](./DOCUMENTATION_EN.md)
 
 ---
 
