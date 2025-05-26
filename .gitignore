@@ -1,0 +1,60 @@
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Gradle
+.gradle/
+build/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Wrapper
+gradle-app.setting
+gradlew
+gradlew.bat
+
+# IDEs
+*.iml
+.idea/
+*.iws
+*.ipr
+*.classpath
+*.project
+.settings/
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Lombok config
+lombok.config
+
+# Environment
+*.env
+.env
+
+# Test coverage tools
+jacoco.exec
+coverage/
+
+# Database or temp files
+*.db
+*.h2.db
+*.mv.db
+
+# Others
+out/
+target/
